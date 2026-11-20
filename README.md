@@ -1,5 +1,11 @@
 # The World in One Day — Friday 20 November 2026 (v3)
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Rzpctr2/makefun-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Rzpctr2/makefun-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
+Built for the [news-image-20261120 bounty](https://make.fun/bounty/news-image-20261120) on make.fun.
+
 A one-page illustrated front page of 20 November 2026: 45 stories from six
 continents (3 heroes + 10 grid + 32 briefs), drawn entirely as code (SVG) so
 every headline is sharp and spelled correctly.
